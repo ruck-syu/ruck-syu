@@ -1,32 +1,23 @@
-# Welcome to My GitHub Profile!
+# Project Title
 
-## Introduction
-Hi there! 👋 I'm **[Your Name]**, a passionate developer with a love for coding and learning new technologies. 
+<!-- Update this section with your project title -->
 
-## Skills
-- 🛠️ **Programming Languages**: Python, JavaScript, Java
-- ⚙️ **Frameworks**: React, Node.js, Django
-- 💾 **Databases**: MySQL, MongoDB
-- 🌐 **Other Skills**: Git, Docker, Cloud Services
+## Description
 
-## Projects
-### [Project Name 1]
-- Description: Brief description of the project.
-- Language/Tools: Languages and tools used.
-- [Live Demo](#) | [GitHub Repo](#)
+<!-- Add a short description about your project -->
 
-### [Project Name 2]
-- Description: Brief description of the project.
-- Language/Tools: Languages and tools used.
-- [Live Demo](#) | [GitHub Repo](#)
+## Installation
 
-## Social Links
-- [LinkedIn](#)
-- [Twitter](#)
-- [Portfolio](#)
+<!-- Provide installation instructions -->
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=radical)
+## Usage
 
----
-*Feel free to customize this profile and make it your own!*
+<!-- Explain how to use your project -->
+
+## Contributing
+
+<!-- Describe how others can contribute to your project -->
+
+## License
+
+<!-- Indicate the license under which the project is distributed -->
