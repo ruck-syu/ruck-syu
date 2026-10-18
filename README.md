@@ -37,12 +37,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-green-animate.svg" />
+    <img width="100%" alt="3D contribution calendar" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-night-view.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
   <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=ruck-syu&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruck-syu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=495&langs_count=8&hide=cmake,c%2B%2B,swift,objective-c,kotlin,shell,cypher,jupyter%20notebook" />
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruck-syu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=323&langs_count=8&hide=cmake,c%2B%2B,swift,objective-c,kotlin,shell,cypher,jupyter%20notebook" />
+  <img width="49%" alt="Commits by hour of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
