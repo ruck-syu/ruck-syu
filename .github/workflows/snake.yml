@@ -30,7 +30,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7
 
       - name: Collect 3D calendar SVGs
-        run: cp profile-3d-contrib/*.svg dist/
+        run: sudo cp profile-3d-contrib/*.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
