@@ -46,7 +46,11 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7aa2f7/ruck-syu" alt="Contribution chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake.svg" />
+    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake.svg" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer" width="100%"/>
