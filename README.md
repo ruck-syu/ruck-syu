@@ -20,19 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Stack |
-| --- | --- |
-| [**blast-radius**](https://github.com/ruck-syu/blast-radius) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Livestock_Guardian**](https://github.com/ruck-syu/Livestock_Guardian) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| [**medi-dispense**](https://github.com/ruck-syu/medi-dispense) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| [**pokerly**](https://github.com/ruck-syu/pokerly) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| [**fake_review_detection**](https://github.com/ruck-syu/fake_review_detection) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**MovieTracker**](https://github.com/ruck-syu/MovieTracker) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
