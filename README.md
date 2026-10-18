@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruck-syu&label=Profile%20Views&color=7aa2f7&style=flat-square" />
-  <a href="https://github.com/ruck-syu?tab=followers"><img src="https://img.shields.io/github/followers/ruck-syu?label=Followers&style=flat-square&color=bb9af7" /></a>
 </p>
 
 ---
@@ -45,12 +44,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
-  <img width="49%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=ruck-syu&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruck-syu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=323&langs_count=8&hide=cmake,c%2B%2B,swift,objective-c,kotlin,shell,cypher,jupyter%20notebook" />
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=332&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
   <img width="49%" alt="Commits by hour of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
 </p>
 
