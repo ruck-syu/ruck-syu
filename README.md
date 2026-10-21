@@ -10,7 +10,7 @@
   <sub>State machines, audit logs, and demos that don't lie.</sub>
 </p>
 
-## Selected work
+## Works
 
 **[Deployment Approval Agent](https://github.com/ruck-syu/deployment-approval-agent)** — An AI agent that reviews deployment requests. The LLM advises, a deterministic policy engine decides, and every step lands in an audit log.
 <br><sub>Java 21 · Spring Boot · PostgreSQL · LangChain4j</sub>
