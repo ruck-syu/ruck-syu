@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-light.svg" />
-    <img width="100%" alt="Wish — software engineer. I build AI systems, backends, and mobile apps." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-light.svg?v=2" />
+    <img width="100%" alt="Wish — software engineer. I build AI systems, backends, and mobile apps." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=2" />
   </picture>
 </p>
 
