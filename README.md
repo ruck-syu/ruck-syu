@@ -54,13 +54,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
     <img width="480" alt="GitHub stats: commits, pull requests, and merged PR percentage" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
   </picture>
-  <a href="https://ruck-syu.github.io/ruck-syu/2048/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/2048-card-dark.svg?v=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/2048-card-light.svg?v=1" />
-      <img width="300" alt="Play 2048" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/2048-card-dark.svg?v=1" />
-    </picture>
-  </a>
 </p>
 
 <p align="center">
