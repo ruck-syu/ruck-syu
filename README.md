@@ -1,15 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-light.svg?v=3" />
-    <img width="100%" alt="Wish — software engineer, mostly harmless. I build AI systems, backends, and apps. Usually." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-light.svg?v=4" />
+    <img width="100%" alt="Wish — software engineer, professional side-projecter. I build AI systems, backends, and apps that behave." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg?v=4" />
   </picture>
 </p>
 
 <p align="center">
-  I get unreasonably excited about state machines, audit logs,
-  <br />
-  and tests that keep a demo honest.
+  <sub>State machines, audit logs, and demos that don't lie.</sub>
 </p>
 
 ## Selected work
