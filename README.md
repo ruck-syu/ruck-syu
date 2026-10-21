@@ -46,7 +46,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-night-view.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-green-animate.svg" />
-    <img width="100%" alt="3D contribution calendar" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-night-view.svg" />
+    <img width="100%" alt="3D isometric calendar of my GitHub contributions over the last year" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/profile-night-view.svg" />
   </picture>
 </p>
 
@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
-    <img width="480" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
+    <img width="480" alt="GitHub stats: commits, pull requests, and merged PR percentage" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
