@@ -10,58 +10,6 @@
   <sub>State machines, audit logs, and demos that don't lie.</sub>
 </p>
 
-## Terminal
-
-<sub>Click a command. GitHub won't let me run a real shell here, so this is the next best thing.</sub>
-
-<details>
-<summary><code>$ whoami</code></summary>
-
-Wish — software engineer, professional side-projecter. I like systems that can explain themselves, tests that keep demos honest, and side projects that get slightly out of hand.
-
-</details>
-
-<details>
-<summary><code>$ ls projects</code></summary>
-
-- [`deployment-approval-agent/`](https://github.com/ruck-syu/deployment-approval-agent)
-- [`blast-radius/`](https://github.com/ruck-syu/blast-radius)
-- [`nawi-testing/`](https://github.com/ruck-syu/nawi-testing)
-- [`Anigen/`](https://github.com/ruck-syu/Anigen)
-
-<sub>[Details below ↓](#selected-work) · [more repos →](https://github.com/ruck-syu?tab=repositories)</sub>
-
-</details>
-
-<details>
-<summary><code>$ cat stack</code></summary>
-
-Daily drivers: Flutter, Python, TypeScript, and Java. Everything else is whatever the current side project demands.
-
-<sub>[Full toolbox below ↓](#toolbox)</sub>
-
-</details>
-
-<details>
-<summary><code>$ contact</code></summary>
-
-- GitHub: [@ruck-syu](https://github.com/ruck-syu)
-- Best way in: open an issue on any repo.
-
-</details>
-
-<details>
-<summary><code>$ sudo hire-me</code></summary>
-
-```console
-[sudo] password for visitor: ********
-Permission granted.
-```
-
-I'm up for interesting systems problems and good side quests. → [github.com/ruck-syu](https://github.com/ruck-syu)
-
-</details>
-
 ## Selected work
 
 **[Deployment Approval Agent](https://github.com/ruck-syu/deployment-approval-agent)** — An AI agent that reviews deployment requests. The LLM advises, a deterministic policy engine decides, and every step lands in an audit log.
