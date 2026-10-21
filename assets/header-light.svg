@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
   <title id="title">Wish — software engineer</title>
-  <desc id="desc">Wish builds AI systems, backends, and mobile apps.</desc>
+  <desc id="desc">Wish builds AI systems, backends, and apps. Usually.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f7f8fc"/>
@@ -29,9 +29,9 @@
   <rect width="800" height="300" fill="url(#glow-purple)"/>
   <text x="570" y="292" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="250" font-weight="800" fill="#3d59a1" opacity="0.055">W</text>
   <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-    <text x="56" y="96" font-size="15" font-weight="600" letter-spacing="3.7" fill="#3d59a1">SOFTWARE ENGINEER</text>
+    <text x="56" y="96" font-size="15" font-weight="600" letter-spacing="3.7" fill="#3d59a1">SOFTWARE ENGINEER, MOSTLY HARMLESS</text>
     <text x="52" y="190" font-size="88" font-weight="700" letter-spacing="-2.4" fill="#1a1b26">Wish<tspan fill="#3d59a1">.</tspan></text>
     <rect x="56" y="214" width="52" height="4" rx="2" fill="url(#accent)"/>
-    <text x="56" y="256" font-size="26" fill="#4c566a">I build AI systems, backends, and mobile apps.</text>
+    <text x="56" y="256" font-size="26" fill="#4c566a">I build AI systems, backends, and apps. Usually.</text>
   </g>
 </svg>
