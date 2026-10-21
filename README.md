@@ -1,26 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=180&section=header&text=Hey,%20I'm%20Wish&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=I%20do%20things.&descAlignY=58&descSize=18" width="100%"/>
-
 <p align="center">
-  <a href="https://github.com/ruck-syu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+mobile+apps+with+Flutter;Tinkering+with+Python+%26+ML;Shipping+web+things+in+TypeScript;Always+learning+something+new" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-light.svg" />
+    <img width="100%" alt="Wish — software engineer. I build AI systems, backends, and mobile apps." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/main/assets/header-dark.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruck-syu&label=Profile%20Views&color=7aa2f7&style=flat-square" />
+  I care about the unglamorous parts: state machines, audit logs,
+  <br />
+  and the tests that make a demo trustworthy.
 </p>
 
----
+## Selected work
 
-### 🛠️ Tech Stack
+**[Deployment Approval Agent](https://github.com/ruck-syu/deployment-approval-agent)** — An AI agent that reviews deployment requests. The LLM advises, a deterministic policy engine decides, and every step lands in an audit log.
+<br><sub>Java 21 · Spring Boot · PostgreSQL · LangChain4j</sub>
+
+**[Blast Radius](https://github.com/ruck-syu/blast-radius)** — Supply-chain vulnerability triage over a graph: find every affected service, rank it by exposure, and act only on a verified path.
+<br><sub>Python · FalkorDB · MCP · LLM agents</sub>
+
+**[NAWI Testing](https://github.com/ruck-syu/nawi-testing)** — Digital OIML R76 test reports for weighing instruments. Every verdict is computed from the readings, never typed.
+<br><sub>React 19 · Node.js · PostgreSQL · Supabase</sub>
+
+**[Anigen](https://github.com/ruck-syu/Anigen)** — A minimalist, ad-free anime client for Android, built with Flutter and an MPV-based player.
+<br><sub>Flutter · Dart · Android</sub>
+
+<sub>[More repositories →](https://github.com/ruck-syu?tab=repositories)</sub>
+
+## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,ts,js,java,html,css,react,nodejs,firebase,mysql,git,docker,linux&perline=8" />
+  <sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python,ts,js,java,react,nodejs&perline=8" alt="Dart, Flutter, Python, TypeScript, JavaScript, Java, React, Node.js" />
 </p>
 
----
+<p align="center">
+  <sub><b>DATA, AI &amp; TOOLS</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,pytorch,docker,git,linux&perline=8" alt="PostgreSQL, MySQL, Supabase, Firebase, PyTorch, Docker, Git, Linux" />
+</p>
 
-### 📊 GitHub Stats
+## GitHub, lately
 
 <p align="center">
   <picture>
@@ -31,8 +51,16 @@
 </p>
 
 <p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=332&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
-  <img width="49%" alt="Commits by hour of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
+    <img width="480" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=vue&utcOffset=5.5" />
+    <img width="325" alt="Commits by hour of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=vue&utcOffset=5.5" />
+  </picture>
 </p>
 
 <p align="center">
@@ -43,4 +71,8 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:928DAB,100:1f1c2c&height=120&section=footer" width="100%"/>
+<p align="center">
+  <i>I do things.</i>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ruck-syu&label=profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
+</p>
