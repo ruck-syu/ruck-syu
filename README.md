@@ -54,11 +54,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
     <img width="480" alt="GitHub stats: commits, pull requests, and merged PR percentage" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=vue&utcOffset=5.5" />
-    <img width="325" alt="Commits by hour of day" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=vue&utcOffset=5.5" />
-  </picture>
 </p>
 
 <p align="center">
