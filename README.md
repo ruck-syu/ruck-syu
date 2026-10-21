@@ -52,9 +52,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
-    <img width="480" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
+    <img width="480" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ruck-syu&theme=tokyonight&utcOffset=5.5" />
