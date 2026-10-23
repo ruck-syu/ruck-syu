@@ -6,9 +6,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <sub>State machines, audit logs, and demos that don't lie.</sub>
-</p>
 
 ## Works
 
