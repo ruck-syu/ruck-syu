@@ -9,6 +9,9 @@
 
 ## Works
 
+**[Voxi](https://github.com/ruck-syu/Voxi)** — A Mac menu-bar app that turns typed or dictated commands into safe, previewed file operations. Deletes go to the Trash, and "undo last" reverses the newest run.
+<br><sub>Tauri · Rust · React · TypeScript</sub>
+
 **[Deployment Approval Agent](https://github.com/ruck-syu/deployment-approval-agent)** — An AI agent that reviews deployment requests. The LLM advises, a deterministic policy engine decides, and every step lands in an audit log.
 <br><sub>Java 21 · Spring Boot · PostgreSQL · LangChain4j</sub>
 
