@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-light.svg" />
-    <img width="100%" alt="Wish — software engineer, professional side-projecter. I build AI systems, backends, and apps that behave." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-dark.svg" />
+    <img width="100%" alt="Wish — software engineer, professional side-projecter. I build AI systems, backends and apps that behave." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-dark.svg" />
   </picture>
 </p>
 
