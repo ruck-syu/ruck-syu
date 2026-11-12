@@ -26,18 +26,6 @@
 
 <sub>[More repositories →](https://github.com/ruck-syu?tab=repositories)</sub>
 
-## Toolbox
-
-<p align="center">
-  <sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,ts,js,java,react,nodejs&perline=8" alt="Dart, Flutter, Python, TypeScript, JavaScript, Java, React, Node.js" />
-</p>
-
-<p align="center">
-  <sub><b>DATA, AI &amp; TOOLS</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,pytorch,docker,git,linux&perline=8" alt="PostgreSQL, MySQL, Supabase, Firebase, PyTorch, Docker, Git, Linux" />
-</p>
-
 ## GitHub, lately
 
 <p align="center">
@@ -53,14 +41,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
     <img width="480" alt="GitHub stats: commits, pull requests, and merged PR percentage" src="https://github-readme-stats.vercel.app/api?username=ruck-syu&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_rank=true&card_width=495&hide=stars%2Cissues&show=prs_merged%2Cprs_merged_percentage" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake.svg" />
-    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/output/github-snake.svg" />
   </picture>
 </p>
 
