@@ -1,19 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
   <title id="title">Wish — software engineer, professional side-projecter</title>
   <desc id="desc">Wish, software engineer and professional side-projecter.</desc>
-  <defs>
-    <clipPath id="outside">
-      <path clip-rule="evenodd" d="M0 0H800V300H0Z M561 0H800V300H561Z"/>
-    </clipPath>
-    <clipPath id="inside">
-      <rect x="561" y="0" width="239" height="300"/>
-    </clipPath>
-  </defs>
   <rect width="800" height="300" fill="#EDEBE4"/>
-  <rect x="561" y="0" width="239" height="300" fill="#1D4B3D"/>
-  <g font-family="Futura, 'Century Gothic', 'Avenir Next', 'Trebuchet MS', sans-serif" font-weight="700" font-size="224" letter-spacing="-3.4">
-    <text x="44" y="218" fill="#16201A" clip-path="url(#outside)">Wish.</text>
-    <text x="44" y="218" fill="#EDEBE4" clip-path="url(#inside)">Wish.</text>
+  <g fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M44 208H756" stroke="#16201A"/>
+    <path d="M300 208L340 168H420L460 208" stroke="#1D4B3D"/>
+    <path d="M520 208L620 108H716" stroke="#1D4B3D"/>
   </g>
-  <text x="44" y="262" font-family="Futura, 'Century Gothic', 'Avenir Next', 'Trebuchet MS', sans-serif" font-weight="500" font-size="20" fill="#3E4A44">Software engineer, professional side-projecter</text>
+  <g fill="#1D4B3D">
+    <circle cx="362" cy="168" r="4.5"/>
+    <circle cx="398" cy="168" r="4.5"/>
+    <circle cx="650" cy="108" r="4.5"/>
+    <circle cx="684" cy="108" r="4.5"/>
+  </g>
+  <circle cx="716" cy="108" r="5.5" fill="#EDEBE4" stroke="#1D4B3D" stroke-width="2"/>
+  <circle cx="756" cy="208" r="6" fill="#EDEBE4" stroke="#16201A" stroke-width="2"/>
+  <g font-family="Futura, 'Century Gothic', 'Avenir Next', 'Trebuchet MS', sans-serif">
+    <text x="44" y="100" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#16201A">Wish.</text>
+    <text x="44" y="256" font-size="15" font-weight="500" fill="#3E4A44">Software engineer, professional side-projecter</text>
+  </g>
 </svg>
