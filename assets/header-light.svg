@@ -2,99 +2,18 @@
   <title id="title">Wish — software engineer, professional side-projecter</title>
   <desc id="desc">Wish, software engineer and professional side-projecter.</desc>
   <defs>
-    <radialGradient id="halo" cx="612" cy="150" r="330" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#3d59a1" stop-opacity="0.30"/>
-      <stop offset="1" stop-color="#3d59a1" stop-opacity="0"/>
-    </radialGradient>
+    <clipPath id="outside">
+      <path clip-rule="evenodd" d="M0 0H800V300H0Z M561 0H800V300H561Z"/>
+    </clipPath>
+    <clipPath id="inside">
+      <rect x="561" y="0" width="239" height="300"/>
+    </clipPath>
   </defs>
-  <rect width="800" height="300" fill="#f7f8fc"/>
-  <rect width="800" height="300" fill="url(#halo)"/>
-  <g fill="#3d59a1">
-    <circle cx="27.9" cy="64.7" r="0.5" opacity="0.18"/>
-    <circle cx="133.3" cy="272.0" r="0.5" opacity="0.18"/>
-    <circle cx="482.8" cy="123.8" r="0.5" opacity="0.18"/>
-    <circle cx="55.9" cy="31.2" r="0.5" opacity="0.4"/>
-    <circle cx="506.3" cy="14.1" r="0.8" opacity="0.28"/>
-    <circle cx="648.9" cy="98.2" r="0.8" opacity="0.28"/>
-    <circle cx="622.5" cy="111.7" r="0.6" opacity="0.18"/>
-    <circle cx="512.7" cy="241.2" r="1.0" opacity="0.28"/>
-    <circle cx="65.7" cy="257.1" r="1.0" opacity="0.4"/>
-    <circle cx="544.0" cy="258.2" r="0.5" opacity="0.55"/>
-    <circle cx="524.3" cy="202.7" r="0.5" opacity="0.28"/>
-    <circle cx="376.2" cy="20.4" r="0.8" opacity="0.4"/>
-    <circle cx="732.2" cy="214.5" r="0.5" opacity="0.4"/>
-    <circle cx="672.8" cy="248.5" r="1.0" opacity="0.28"/>
-    <circle cx="737.4" cy="54.3" r="1.0" opacity="0.55"/>
-    <circle cx="179.8" cy="288.8" r="1.0" opacity="0.28"/>
-    <circle cx="36.3" cy="117.7" r="0.8" opacity="0.55"/>
-    <circle cx="675.9" cy="116.1" r="1.0" opacity="0.55"/>
-    <circle cx="690.9" cy="238.7" r="0.6" opacity="0.4"/>
-    <circle cx="620.0" cy="86.0" r="0.5" opacity="0.18"/>
-    <circle cx="513.4" cy="239.6" r="0.5" opacity="0.18"/>
-    <circle cx="36.8" cy="34.2" r="0.6" opacity="0.28"/>
-    <circle cx="506.5" cy="267.0" r="0.5" opacity="0.55"/>
-    <circle cx="625.2" cy="206.2" r="0.6" opacity="0.4"/>
-    <circle cx="282.2" cy="266.3" r="0.5" opacity="0.55"/>
-    <circle cx="508.2" cy="226.0" r="1.0" opacity="0.28"/>
-    <circle cx="467.1" cy="248.1" r="0.6" opacity="0.28"/>
-    <circle cx="687.7" cy="44.1" r="0.6" opacity="0.4"/>
-    <circle cx="605.4" cy="49.0" r="1.0" opacity="0.55"/>
-    <circle cx="523.8" cy="31.0" r="1.0" opacity="0.55"/>
-    <circle cx="471.7" cy="254.5" r="0.8" opacity="0.18"/>
-    <circle cx="749.4" cy="99.4" r="1.0" opacity="0.28"/>
-    <circle cx="573.0" cy="91.6" r="0.8" opacity="0.4"/>
-    <circle cx="471.8" cy="270.0" r="0.6" opacity="0.18"/>
-    <circle cx="593.1" cy="12.2" r="1.0" opacity="0.28"/>
-    <circle cx="9.1" cy="77.6" r="1.0" opacity="0.18"/>
-    <circle cx="280.5" cy="253.8" r="0.8" opacity="0.28"/>
-    <circle cx="632.4" cy="185.4" r="0.6" opacity="0.55"/>
-    <circle cx="584.6" cy="109.7" r="0.5" opacity="0.18"/>
-    <circle cx="496.3" cy="93.5" r="0.5" opacity="0.18"/>
-    <circle cx="621.7" cy="219.7" r="0.6" opacity="0.4"/>
-    <circle cx="667.4" cy="168.7" r="0.8" opacity="0.28"/>
-    <circle cx="724.3" cy="59.2" r="1.0" opacity="0.55"/>
-    <circle cx="637.7" cy="153.4" r="1.0" opacity="0.4"/>
-    <circle cx="45.8" cy="270.0" r="0.8" opacity="0.28"/>
-    <circle cx="226.3" cy="27.8" r="0.5" opacity="0.18"/>
-    <circle cx="437.3" cy="55.6" r="1.0" opacity="0.55"/>
-    <circle cx="757.9" cy="272.1" r="1.0" opacity="0.55"/>
-    <circle cx="708.5" cy="255.3" r="0.5" opacity="0.28"/>
-    <circle cx="130.8" cy="240.7" r="0.5" opacity="0.4"/>
-    <circle cx="479.3" cy="81.5" r="0.5" opacity="0.55"/>
-    <circle cx="693.5" cy="189.5" r="0.5" opacity="0.4"/>
-    <circle cx="584.2" cy="216.0" r="0.5" opacity="0.55"/>
-    <circle cx="544.7" cy="202.6" r="0.6" opacity="0.18"/>
-    <circle cx="14.9" cy="122.2" r="0.5" opacity="0.4"/>
-    <circle cx="601.7" cy="51.0" r="0.8" opacity="0.18"/>
-    <circle cx="622.2" cy="29.8" r="1.0" opacity="0.18"/>
-    <circle cx="577.2" cy="38.3" r="1.0" opacity="0.4"/>
-    <circle cx="348.1" cy="51.1" r="0.6" opacity="0.4"/>
-    <circle cx="640.9" cy="18.0" r="0.5" opacity="0.4"/>
-    <circle cx="470" cy="40" r="1.5" opacity="0.9"/>
-    <circle cx="778" cy="168" r="1.3" opacity="0.8"/>
-    <circle cx="446" cy="268" r="1.2" opacity="0.7"/>
+  <rect width="800" height="300" fill="#EDEBE4"/>
+  <rect x="561" y="0" width="239" height="300" fill="#1D4B3D"/>
+  <g font-family="Futura, 'Century Gothic', 'Avenir Next', 'Trebuchet MS', sans-serif" font-weight="700" font-size="224" letter-spacing="-3.4">
+    <text x="44" y="218" fill="#16201A" clip-path="url(#outside)">Wish.</text>
+    <text x="44" y="218" fill="#EDEBE4" clip-path="url(#inside)">Wish.</text>
   </g>
-  <circle cx="494" cy="64" r="16" fill="url(#glow)"/>
-  <circle cx="554" cy="236" r="16" fill="url(#glow)"/>
-  <circle cx="612" cy="124" r="16" fill="url(#glow)"/>
-  <circle cx="670" cy="236" r="16" fill="url(#glow)"/>
-  <circle cx="730" cy="64" r="46" fill="url(#glow)"/>
-  <polyline points="494,64 554,236 612,124 670,236 730,64" fill="none" stroke="#3d59a1" stroke-opacity="0.75" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <g fill="#1a1b26">
-    <circle cx="494" cy="64" r="3.4"/>
-    <circle cx="554" cy="236" r="3.4"/>
-    <circle cx="612" cy="124" r="3.4"/>
-    <circle cx="670" cy="236" r="3.4"/>
-  </g>
-  <path d="M730,50 Q730,64 744,64 Q730,64 730,78 Q730,64 716,64 Q730,64 730,50 Z" fill="#3d59a1"/>
-  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-    <text x="56" y="78" font-size="15" font-weight="600" letter-spacing="3.7" fill="#5d6588">SOFTWARE ENGINEER,</text>
-    <text x="56" y="98" font-size="15" font-weight="600" letter-spacing="3.7" fill="#5d6588">PROFESSIONAL SIDE-PROJECTER</text>
-    <text x="52" y="204" font-size="116" font-weight="700" letter-spacing="-3.5" fill="#1a1b26">Wish<tspan fill="#3d59a1">.</tspan></text>
-    <rect x="56" y="230" width="52" height="4" rx="2" fill="#3d59a1"/>
-  </g>
+  <text x="44" y="262" font-family="Futura, 'Century Gothic', 'Avenir Next', 'Trebuchet MS', sans-serif" font-weight="500" font-size="20" fill="#3E4A44">Software engineer, professional side-projecter</text>
 </svg>
