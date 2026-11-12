@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-light.svg" />
-    <img width="100%" alt="Wish — software engineer, professional side-projecter. I build AI systems, backends and apps that behave." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/2719ba1/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-light.svg" />
+    <img width="100%" alt="Wish — software engineer, professional side-projecter." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-dark.svg" />
   </picture>
 </p>
 
@@ -26,6 +26,15 @@
 
 <sub>[More repositories →](https://github.com/ruck-syu?tab=repositories)</sub>
 
+## Contributed to
+
+- [GDG-On-Campus-RVU/GDG-Website](https://github.com/GDG-On-Campus-RVU/GDG-Website)
+- [tharunm490/dbmsproject2](https://github.com/tharunm490/dbmsproject2)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode)
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft)
+- [vedanthcy46/Restaurant-Queue-Management](https://github.com/vedanthcy46/Restaurant-Queue-Management)
+
 ## GitHub, lately
 
 <p align="center">
@@ -45,7 +54,5 @@
 </p>
 
 <p align="center">
-  <i>I do things.</i>
-  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=ruck-syu&label=profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
 </p>
