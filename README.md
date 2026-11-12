@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-light.svg" />
-    <img width="100%" alt="Wish — software engineer, professional side-projecter." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/12b6c08/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/8fdbb52/assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruck-syu/ruck-syu/8fdbb52/assets/header-light.svg" />
+    <img width="100%" alt="Wish — software engineer, professional side-projecter." src="https://raw.githubusercontent.com/ruck-syu/ruck-syu/8fdbb52/assets/header-dark.svg" />
   </picture>
 </p>
 
@@ -25,15 +25,6 @@
 <br><sub>Flutter · Dart · Android</sub>
 
 <sub>[More repositories →](https://github.com/ruck-syu?tab=repositories)</sub>
-
-## Contributed to
-
-- [GDG-On-Campus-RVU/GDG-Website](https://github.com/GDG-On-Campus-RVU/GDG-Website)
-- [tharunm490/dbmsproject2](https://github.com/tharunm490/dbmsproject2)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode)
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft)
-- [vedanthcy46/Restaurant-Queue-Management](https://github.com/vedanthcy46/Restaurant-Queue-Management)
 
 ## GitHub, lately
 
