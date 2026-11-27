@@ -21,7 +21,7 @@
 **[NAWI Testing](https://github.com/ruck-syu/nawi-testing)** — Digital OIML R76 test reports for weighing instruments. Every verdict is computed from the readings, never typed.
 <br><sub>React 19 · Node.js · PostgreSQL · Supabase</sub>
 
-**[Anigen](https://github.com/ruck-syu/Anigen)** — A minimalist, ad-free anime client for Android, built with Flutter and an MPV-based player.
+**[Anigen](https://github.com/ruck-syu/Anigen)** — A minimalist, ad-free anime client for Android, macOS and Windows built with Flutter and an MPV-based player.
 <br><sub>Flutter · Dart · Android</sub>
 
 <sub>[More repositories →](https://github.com/ruck-syu?tab=repositories)</sub>
